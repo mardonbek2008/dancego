@@ -1,0 +1,92 @@
+.wrapper {
+    width: auto;
+    height: 637px;
+    background: #F5F5F7;
+}
+
+.bigbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: auto;
+    height: 637px;
+}
+
+.boxone {}
+
+.textbig {
+    font-family: Roboto;
+    font-size: 66px;
+    font-weight: 400;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 235px;
+    margin-bottom: 25px;
+}
+
+.buttonlearn {
+    width: 180px;
+    height: 39px;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 30px;
+    border: 2px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.buttonlearn:hover {
+    background-color: black;
+    border: 0;
+}
+
+.buttonlearn:hover .lerntext {
+    color: white;
+}
+
+.buttonlearn:hover .hoverarrow {
+    background-image: url(../sectionsix/assets/icons/arrow-right.svg);
+}
+
+.lerntext {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.hoverarrow {
+    width: 20px;
+    height: 20px;
+    background-image: url(../sectionsix/assets/icons/arrow.svg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.boxtwo {
+    padding-top: 96px;
+}
+
+.boxofplus {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 513px;
+    margin-bottom: 55px;
+}
+
+.plusimg {
+    margin-right: 25px;
+}
+
+.fountext {
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}

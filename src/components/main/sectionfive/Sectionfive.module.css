@@ -1,0 +1,201 @@
+.wrapper {
+    width: auto;
+    height: 667px;
+}
+
+.bigbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardadd {
+    margin-right: 25px;
+    padding-top: 15px;
+}
+
+.youratext {
+    font-family: Roboto;
+    font-size: 65px;
+    font-weight: 400;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 248px;
+    margin-bottom: 27px;
+}
+
+.minitext {
+    width: 252px;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 36px;
+}
+
+.brone {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 235px;
+    height: 37px;
+    background-color: #F5F5F7;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+
+.ptich {}
+
+.textb {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.brtwo {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 282px;
+    height: 37px;
+    background-color: #F5F5F7;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+
+.brthree {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 227px;
+    height: 37px;
+    background-color: #F5F5F7;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+
+.brfour {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 178px;
+    height: 37px;
+    background-color: #F5F5F7;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+
+.biggercard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 75px;
+}
+
+.card {
+    width: 334px;
+    height: 518px;
+    background-color: #F5F5F7;
+    border-radius: 10px;
+    padding-top: 67px;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-right: 25px;
+}
+
+.cardsimg {}
+
+.boxtexts {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 35px;
+}
+
+.textvalue {
+    color: #49464F;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21.6px;
+    /* 127.059% */
+}
+
+.textwio {
+    width: 87px;
+    height: 24px;
+    background-color: #F1EEF8;
+    border-radius: 30px;
+}
+
+.textv {
+    color: #7140EB;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 150% */
+}
+
+.steptext {
+    font-family: Roboto;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.textebike {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+.buttondetailsee {
+    width: 189px;
+    height: 62px;
+    background-color: #7140EB;
+    border-radius: 30px;
+    border: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttondetailsee:hover {
+    background-color: white;
+    border: 2px solid #7140EB;
+}
+
+.buttondetailsee:hover .seetext {
+    color: #7140EB;
+}
+
+.hoverbox {}
+
+.securyhover {}
+
+.seetext {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.righticon {}

@@ -1,0 +1,78 @@
+.wrapper {}
+
+.bigsection {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 600px;
+    background-color: #F5F5F7;
+}
+
+.sectionone {}
+
+.bigtext {
+    font-family: Roboto;
+    font-size: 67px;
+    font-weight: 400;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 426px;
+    margin-bottom: 20px;
+}
+
+.minitext {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 313px;
+    margin-bottom: 35px;
+}
+
+.buttonsee {
+    width: 180px;
+    height: 40px;
+    border: 2px solid #2E2C34;
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #F5F5F7;
+    transition: all 0.5s;
+}
+
+.buttonsee:hover {
+    background-color: #2E2C34;
+}
+
+.buttonsee:hover .seetext {
+    color: white;
+}
+
+.buttonsee:hover .arrowfoto {
+    background-image: url(../sectiontwo/assets/img/white.svg);
+}
+
+.seetext {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.arrowfoto {
+    width: 20px;
+    height: 20px;
+    background-image: url(../sectionthree/assets/icons/right.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.sectiontwo {}
+
+.fotowomen {}
