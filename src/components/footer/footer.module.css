@@ -1,0 +1,146 @@
+.wrapper {
+    width: auto;
+    height: 553px;
+    background-image: url(../footer/assets/img/background.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.biggerbox {}
+
+.sectionsfather {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 90px;
+}
+
+.firstsection {
+    padding-top: 100px;
+}
+
+.staytext {
+    font-family: Roboto;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin-bottom: 18px;
+}
+
+.mnintext {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 286px;
+    color: white;
+    margin-bottom: 29px;
+}
+
+.inputsbox {
+    width: 314px;
+    height: 54px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+.input {
+    width: 230px;
+    height: 51px;
+    outline: none;
+    border: 0;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.rightbutton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rightimg {}
+
+.bottomtext {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 259px;
+    color: white;
+}
+
+.secondsection {
+    display: flex;
+    padding-top: 100px;
+}
+
+.universallminisection {
+    height: 250px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.blachedtext {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF80;
+    margin-bottom: 8px;
+    width: 150px;
+    margin-bottom: 20px
+}
+
+.linkfrom {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    width: 150px !important;
+    height: 30px !important;
+    margin-bottom: 25px;
+}
+
+.linkfrom:hover {
+    border-bottom: 2px solid white;
+}
+
+.linkerbox {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 20px;
+    height: 50px;
+}
+
+.linkfoto {
+    margin-right: 15px;
+}
+
+.linimg {}

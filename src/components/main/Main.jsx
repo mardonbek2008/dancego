@@ -6,7 +6,7 @@ import Sectionthree from "./sectionthree/Sectionthree"
 import Sectionfour from "./sectionfour/Sectionfour"
 import Sectionfive from "./sectionfive/Sectionfive"
 import Sectionsix from "./sectionsix/Sectionsix"
-
+import Sectionseven from './sectionseven/Sectionseven'
 
 
 function Main() {
@@ -18,7 +18,7 @@ function Main() {
       <Sectionfour />
       <Sectionfive />
       <Sectionsix />
-
+      <Sectionseven/>
     </div>
 
   )
